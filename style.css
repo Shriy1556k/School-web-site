@@ -1,6 +1,6 @@
 .my_nav_bar
 {
-    position:sticky;
+   position:sticy;
     top:0;
     z-index:99999;
 }
